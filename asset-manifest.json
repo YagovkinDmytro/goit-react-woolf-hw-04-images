@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-woolf-hw-04-image-finder/static/css/main.04b48a20.css",
-    "main.js": "/goit-react-woolf-hw-04-image-finder/static/js/main.2fd25b1b.js",
+    "main.css": "/goit-react-woolf-hw-04-image-finder/static/css/main.a42eb171.css",
+    "main.js": "/goit-react-woolf-hw-04-image-finder/static/js/main.3de0ec8d.js",
     "index.html": "/goit-react-woolf-hw-04-image-finder/index.html",
-    "main.04b48a20.css.map": "/goit-react-woolf-hw-04-image-finder/static/css/main.04b48a20.css.map",
-    "main.2fd25b1b.js.map": "/goit-react-woolf-hw-04-image-finder/static/js/main.2fd25b1b.js.map"
+    "static/media/magnifying-glass-icon.svg": "/goit-react-woolf-hw-04-image-finder/static/media/magnifying-glass-icon.5561131f8aeb9802b707.svg",
+    "main.a42eb171.css.map": "/goit-react-woolf-hw-04-image-finder/static/css/main.a42eb171.css.map",
+    "main.3de0ec8d.js.map": "/goit-react-woolf-hw-04-image-finder/static/js/main.3de0ec8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.04b48a20.css",
-    "static/js/main.2fd25b1b.js"
+    "static/css/main.a42eb171.css",
+    "static/js/main.3de0ec8d.js"
   ]
 }
