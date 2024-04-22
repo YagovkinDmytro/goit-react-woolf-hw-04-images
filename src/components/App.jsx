@@ -48,16 +48,16 @@ export const App = () => {
     getSearchImages();
   }, [searchValue, page]);
 
-  const searchParam = searchParam => {
-    if (searchParam === '') {
+  const searchParam = query => {
+    if (query === '') {
       alert('Please type a new word');
       return;
     }
-    if (searchParam === searchValue) {
+    if (query === searchValue) {
       alert('We have already shown thoes photos');
       return;
     }
-    setSearchValue(searchParam);
+    setSearchValue(query);
     setImages([]);
     setPage(1);
   };
