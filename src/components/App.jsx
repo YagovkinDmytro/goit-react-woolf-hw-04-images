@@ -73,9 +73,7 @@ export const App = () => {
   };
 
   const handleSetCloseModal = () => {
-    this.setState({
-      openModal: false,
-    });
+    setOpenModal(false);
   };
 
   return (
@@ -94,7 +92,7 @@ export const App = () => {
       {openModal && (
         <Modal
           largeImageURL={largeImageURL}
-          tags={tagsImages}
+          tagsImages={tagsImages}
           handleSetCloseModal={handleSetCloseModal}
         ></Modal>
       )}
